@@ -1,0 +1,30 @@
+# Example Q&A instructions for interacting with the web page
+# Each step should be in a Q&A format
+
+# Q: What should I do first?
+# A: Open the browser
+open browser
+
+# Q: What should I do next?
+# A: Type in the name of the company
+type in name of the company
+
+# Q: What should I do after that?
+# A: Search for the name of the company
+search name of company
+
+# Q: What should I do next?
+# A: Open the first search link
+open first search link
+
+# Q: What should I do after that?
+# A: Compare the rest of the given company info to the website
+compare company info
+
+# Q: What should I do if 80% of the information matches?
+# A: Fill out missing data with the information from the website
+fill out missing data
+
+# Q: What should I do if the information does not match?
+# A: Try the next search link and start comparing until a match is found
+try next search link
